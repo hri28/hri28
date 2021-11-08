@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hri28
 - 👀 I’m interested in Full Stack Web development and UI/UX design!
-- 🌱 I’m currently learning react.js
+- 🌱 I’m currently learning node.js
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me hrishita282001@gmail.com
 
