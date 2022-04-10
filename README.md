@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @hri28
 - 👀 I’m interested in Full Stack Web development and UI/UX design!
-- 🌱 I’m currently learning node.js
+- 🌱 I’m currently learning MERN stack
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me hrishita282001@gmail.com
+- 📫 How to reach me hrishita.hrish@gmail.com
 
 <!---
 hri28/hri28 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
