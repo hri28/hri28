@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hri28
 - 👀 I’m interested in Full Stack Web development and UI/UX design!
-- 🌱 I’m currently learning MERN stack
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Machine Learning
+- 💞️ I’m looking to collaborate on Full stack and design projects
 - 📫 How to reach me hrishita.hrish@gmail.com
 
 <!---
